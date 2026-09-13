@@ -45,8 +45,8 @@
       "strategia": "",
       "lode": false,
       "tesi": false,
-      "voto": null,
-      "stato": "da preparare",
+      "voto": 27,
+      "stato": "superato",
       "id": "x8w5s8rm",
       "name": "Photonics and Radiometry",
       "cfu": 5,
@@ -463,5 +463,5 @@
       "sessione": null
     }
   ],
-  "updatedAt": 1789307612647
+  "updatedAt": 1789309095406
 }
