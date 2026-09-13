@@ -156,7 +156,7 @@
       "cfu": 5,
       "semestre": 1,
       "frequenza": "a26au",
-      "sessione": "s2701",
+      "sessione": "s2706",
       "stato": "da preparare",
       "voto": null,
       "lode": false,
@@ -463,5 +463,5 @@
       "studyLog": []
     }
   ],
-  "updatedAt": 1789307376476
+  "updatedAt": 1789307380688
 }
