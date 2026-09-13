@@ -461,31 +461,7 @@
       "semestre": 2,
       "frequenza": "a28pr",
       "sessione": null
-    },
-    {
-      "id": "x1ry7on3",
-      "name": "Nuovo insegnamento",
-      "cfu": 5,
-      "semestre": 1,
-      "frequenza": null,
-      "sessione": "s2701",
-      "stato": "da preparare",
-      "voto": null,
-      "lode": false,
-      "tesi": false,
-      "docente": "",
-      "codice": "",
-      "modalita": "",
-      "strategia": "",
-      "appelli": [],
-      "scadenzaPrenotazione": "",
-      "note": "",
-      "argomenti": [],
-      "materiali": [],
-      "tentativi": [],
-      "todo": [],
-      "studyLog": []
     }
   ],
-  "updatedAt": 1789307455259
+  "updatedAt": 1789307612647
 }
