@@ -7,7 +7,7 @@
   },
   "exams": [
     {
-      "id": "xznmwly2",
+      "id": "x1g4dedc",
       "name": "Solid State Physics",
       "cfu": 10,
       "semestre": 1,
@@ -31,7 +31,7 @@
       "studyLog": []
     },
     {
-      "id": "xnyx74ee",
+      "id": "x8w5s8rm",
       "name": "Photonics and Radiometry",
       "cfu": 5,
       "semestre": 1,
@@ -55,12 +55,12 @@
       "studyLog": []
     },
     {
-      "id": "x2qlbm71",
+      "id": "x5k3ibs4",
       "name": "Electronics",
       "cfu": 10,
       "semestre": 2,
       "frequenza": null,
-      "sessione": "s2609",
+      "sessione": "s2701",
       "stato": "da preparare",
       "voto": null,
       "lode": false,
@@ -79,7 +79,7 @@
       "studyLog": []
     },
     {
-      "id": "xqesdlt1",
+      "id": "xmlouj0u",
       "name": "Semiconductor Photonics",
       "cfu": 5,
       "semestre": 1,
@@ -103,7 +103,7 @@
       "studyLog": []
     },
     {
-      "id": "x5zb8mww",
+      "id": "xa3xd79c",
       "name": "Digital Systems Design",
       "cfu": 10,
       "semestre": 1,
@@ -127,7 +127,7 @@
       "studyLog": []
     },
     {
-      "id": "xm0yudbq",
+      "id": "xd2hp3vb",
       "name": "Quantum Circuits and Devices",
       "cfu": 5,
       "semestre": 1,
@@ -151,7 +151,7 @@
       "studyLog": []
     },
     {
-      "id": "x5g6ndsb",
+      "id": "xs1tfc12",
       "name": "Semiconductor Qubits",
       "cfu": 5,
       "semestre": 1,
@@ -175,7 +175,7 @@
       "studyLog": []
     },
     {
-      "id": "xvbubu46",
+      "id": "xc60b4tq",
       "name": "Quantum Phenomena in Low Dimensional Systems",
       "cfu": 5,
       "semestre": 2,
@@ -199,7 +199,7 @@
       "studyLog": []
     },
     {
-      "id": "xdks873z",
+      "id": "x7r7l7zb",
       "name": "Statistical Physics of Complex Systems",
       "cfu": 5,
       "semestre": 2,
@@ -223,7 +223,7 @@
       "studyLog": []
     },
     {
-      "id": "xbh65n05",
+      "id": "xw3u4j2n",
       "name": "Applied Statistics",
       "cfu": 5,
       "semestre": 2,
@@ -247,7 +247,7 @@
       "studyLog": []
     },
     {
-      "id": "xbpwn1rx",
+      "id": "xdpq2i8b",
       "name": "Microelectronic Technologies",
       "cfu": 5,
       "semestre": 2,
@@ -271,7 +271,7 @@
       "studyLog": []
     },
     {
-      "id": "x7paotpq",
+      "id": "xg55qovt",
       "name": "Ferroic Materials",
       "cfu": 5,
       "semestre": 2,
@@ -295,7 +295,7 @@
       "studyLog": []
     },
     {
-      "id": "xirtr4nc",
+      "id": "xm0plcjk",
       "name": "Nanoelectronics of Graphene and Related 2D Materials",
       "cfu": 5,
       "semestre": 1,
@@ -319,7 +319,7 @@
       "studyLog": []
     },
     {
-      "id": "xuuk7ocd",
+      "id": "x79iczaw",
       "name": "Magnetism and Superconductivity",
       "cfu": 5,
       "semestre": 1,
@@ -343,7 +343,7 @@
       "studyLog": []
     },
     {
-      "id": "xlixqd0v",
+      "id": "xfue718y",
       "name": "Nanomagnetism and Spintronics",
       "cfu": 5,
       "semestre": 1,
@@ -367,7 +367,7 @@
       "studyLog": []
     },
     {
-      "id": "xau3mspd",
+      "id": "xmrli8cx",
       "name": "Semiconductor Nanostructures",
       "cfu": 5,
       "semestre": 1,
@@ -391,7 +391,7 @@
       "studyLog": []
     },
     {
-      "id": "xs9i1tdd",
+      "id": "xkuv9mmm",
       "name": "Advanced Micro and Nanofabrication Technologies",
       "cfu": 5,
       "semestre": 1,
@@ -415,7 +415,7 @@
       "studyLog": []
     },
     {
-      "id": "xep5j1g2",
+      "id": "xyg2tges",
       "name": "Electron and Scanning Probe Microscopy",
       "cfu": 5,
       "semestre": 1,
@@ -439,7 +439,7 @@
       "studyLog": []
     },
     {
-      "id": "xwpkb5j7",
+      "id": "xp5nfvew",
       "name": "Thesis Work",
       "cfu": 15,
       "semestre": 2,
@@ -462,5 +462,6 @@
       "todo": [],
       "studyLog": []
     }
-  ]
+  ],
+  "updatedAt": 1789307376476
 }
