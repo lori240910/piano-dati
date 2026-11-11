@@ -76,7 +76,7 @@
       "cfu": 10,
       "semestre": 2,
       "frequenza": null,
-      "sessione": "s2706"
+      "sessione": "s2701"
     },
     {
       "appelli": [],
@@ -463,5 +463,5 @@
       "sessione": null
     }
   ],
-  "updatedAt": 1794441132691
+  "updatedAt": 1794441135026
 }
